@@ -1,0 +1,1897 @@
+{
+    "abstrato": {
+        "Arica": [
+            "04-01-2021 Leidy Nascimento-01 (1).png",
+            "04-01-2021 Leidy Nascimento-01.png",
+            "04-01-2021 Leidy Nascimento-02.png",
+            "04-01-2021 Leidy Nascimento-03.png",
+            "04-01-2021 Leidy Nascimento-04 (1).png",
+            "04-01-2021 Leidy Nascimento-04.png",
+            "04-01-2021 Leidy Nascimento-05.png",
+            "04-01-2021 Leidy Nascimento-06.png"
+        ],
+        "Atlanta": [
+            "ABSTRATO 4-01.png",
+            "ABSTRATO 4-02.png",
+            "ABSTRATO 4-03.png",
+            "ABSTRATO 4-04.png",
+            "ABSTRATO 4-05.png"
+        ],
+        "Cannes": [
+            "Universo - 1-01.png",
+            "Universo - 1-02.png",
+            "Universo - 1-03.png",
+            "Universo - 1-04.png",
+            "Universo - 1-05.png"
+        ],
+        "Carmelo": [
+            "07-06-2021 Helen Rabelo (Karina Moreira)-01 (1).png",
+            "07-06-2021 Helen Rabelo (Karina Moreira)-01.png",
+            "07-06-2021 Helen Rabelo (Karina Moreira)-02 (1).png",
+            "07-06-2021 Helen Rabelo (Karina Moreira)-02.png",
+            "07-06-2021 Helen Rabelo (Karina Moreira)-03 (1).png",
+            "07-06-2021 Helen Rabelo (Karina Moreira)-03.png",
+            "07-06-2021 Helen Rabelo (Karina Moreira)-04 (1).png",
+            "07-06-2021 Helen Rabelo (Karina Moreira)-04.png",
+            "07-06-2021 Helen Rabelo (Karina Moreira)-05.png"
+        ],
+        "Chernivtsi": [
+            "12-08-2021 Juliana Rodrigues-01.png",
+            "12-08-2021 Juliana Rodrigues-02.png",
+            "12-08-2021 Juliana Rodrigues-03.png",
+            "12-08-2021 Juliana Rodrigues-04.png",
+            "12-08-2021 Juliana Rodrigues-05.png"
+        ],
+        "Cleveland": [
+            "ABSTRATO 2-01.png",
+            "ABSTRATO 2-02.png",
+            "ABSTRATO 2-03.png",
+            "ABSTRATO 2-04.png",
+            "ABSTRATO 2-05.png"
+        ],
+        "Dallas": [
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Ativo 3.png",
+            "Rosas 1.0-01 (1).png",
+            "Rosas 1.0-01.png",
+            "Rosas 1.0-02 (1).png",
+            "Rosas 1.0-02.png",
+            "Rosas 1.0-03 (1).png",
+            "Rosas 1.0-03.png",
+            "Rosas 1.0-04 (1).png",
+            "Rosas 1.0-04.png",
+            "Rosas 1.0-05 (1).png",
+            "Rosas 1.0-05.png"
+        ],
+        "Dubai": [
+            "21-06-2021 Mariana Rodrigues-01 (1).png",
+            "21-06-2021 Mariana Rodrigues-01.png",
+            "21-06-2021 Mariana Rodrigues-02 (1).png",
+            "21-06-2021 Mariana Rodrigues-02.png",
+            "21-06-2021 Mariana Rodrigues-03 (1).png",
+            "21-06-2021 Mariana Rodrigues-03.png",
+            "21-06-2021 Mariana Rodrigues-04 (1).png",
+            "21-06-2021 Mariana Rodrigues-04.png",
+            "21-06-2021 Mariana Rodrigues-05 (1).png",
+            "21-06-2021 Mariana Rodrigues-05.png"
+        ],
+        "Esmirna": [
+            "08-05-2021 Raquel Priscila-01 (1).png",
+            "08-05-2021 Raquel Priscila-01.png",
+            "08-05-2021 Raquel Priscila-02 (1).png",
+            "08-05-2021 Raquel Priscila-02.png",
+            "08-05-2021 Raquel Priscila-03 (1).png",
+            "08-05-2021 Raquel Priscila-03.png",
+            "08-05-2021 Raquel Priscila-04 (1).png",
+            "08-05-2021 Raquel Priscila-04.png",
+            "08-05-2021 Raquel Priscila-05 (1).png",
+            "08-05-2021 Raquel Priscila-05.png",
+            "Ativo 2@4x.png",
+            "Ativo 3@4x.png"
+        ],
+        "Estocolmo": [
+            "26-05-2021 Jaqueline Rodrigues-01 (1).png",
+            "26-05-2021 Jaqueline Rodrigues-01.png",
+            "26-05-2021 Jaqueline Rodrigues-02 (1).png",
+            "26-05-2021 Jaqueline Rodrigues-02.png",
+            "26-05-2021 Jaqueline Rodrigues-03 (1).png",
+            "26-05-2021 Jaqueline Rodrigues-03.png",
+            "26-05-2021 Jaqueline Rodrigues-04 (1).png",
+            "26-05-2021 Jaqueline Rodrigues-04.png",
+            "26-05-2021 Jaqueline Rodrigues-05 (1).png",
+            "26-05-2021 Jaqueline Rodrigues-05.png"
+        ],
+        "Filadélfia": [
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Flores Azuis 1.2-01 (1).png",
+            "Flores Azuis 1.2-01.png",
+            "Flores Azuis 1.2-02 (1).png",
+            "Flores Azuis 1.2-02.png",
+            "Flores Azuis 1.2-03.png",
+            "Flores Azuis 1.2-04.png",
+            "Flores Azuis 1.2-05.png"
+        ],
+        "Houston": [
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Ativo 3.png",
+            "Flores Azuis 1.1-01 (1).png",
+            "Flores Azuis 1.1-01.png",
+            "Flores Azuis 1.1-02 (1).png",
+            "Flores Azuis 1.1-02.png",
+            "Flores Azuis 1.1-03 (1).png",
+            "Flores Azuis 1.1-03.png",
+            "Flores Azuis 1.1-04 (1).png",
+            "Flores Azuis 1.1-04.png",
+            "Flores Azuis 1.1-05 (1).png",
+            "Flores Azuis 1.1-05.png"
+        ],
+        "Indianápolis": [
+            "Rosas 1.2-01.png",
+            "Rosas 1.2-02.png",
+            "Rosas 1.2-03.png",
+            "Rosas 1.2-04.png",
+            "Rosas 1.2-05.png"
+        ],
+        "Jacksonville": [
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Ativo 3.png",
+            "Rosas 1.1-01 (1).png",
+            "Rosas 1.1-01.png",
+            "Rosas 1.1-02 (1).png",
+            "Rosas 1.1-02.png",
+            "Rosas 1.1-03 (1).png",
+            "Rosas 1.1-03.png",
+            "Rosas 1.1-04 (1).png",
+            "Rosas 1.1-04.png",
+            "Rosas 1.1-05 (1).png",
+            "Rosas 1.1-05.png"
+        ],
+        "Jalalabad": [
+            "08-02-2021 Rafaela Cardoso-01 (1).png",
+            "08-02-2021 Rafaela Cardoso-01.png",
+            "08-02-2021 Rafaela Cardoso-02 (1).png",
+            "08-02-2021 Rafaela Cardoso-02.png",
+            "08-02-2021 Rafaela Cardoso-03 (1).png",
+            "08-02-2021 Rafaela Cardoso-03.png",
+            "08-02-2021 Rafaela Cardoso-04 (1).png",
+            "08-02-2021 Rafaela Cardoso-04.png",
+            "08-02-2021 Rafaela Cardoso-05 (1).png",
+            "08-02-2021 Rafaela Cardoso-05.png"
+        ],
+        "Kabul": [
+            "08-01-2021 Danielle Fernandes-01 (1).png",
+            "08-01-2021 Danielle Fernandes-01.png",
+            "08-01-2021 Danielle Fernandes-02 (1).png",
+            "08-01-2021 Danielle Fernandes-02.png",
+            "08-01-2021 Danielle Fernandes-03 (1).png",
+            "08-01-2021 Danielle Fernandes-03.png",
+            "08-01-2021 Danielle Fernandes-04 (1).png",
+            "08-01-2021 Danielle Fernandes-04.png",
+            "08-01-2021 Danielle Fernandes-05 (1).png",
+            "08-01-2021 Danielle Fernandes-05.png"
+        ],
+        "Kandar": [
+            "08-01-2021 Keyla Morais-01 (1).png",
+            "08-01-2021 Keyla Morais-01.png",
+            "08-01-2021 Keyla Morais-02 (1).png",
+            "08-01-2021 Keyla Morais-02.png",
+            "08-01-2021 Keyla Morais-03 (1).png",
+            "08-01-2021 Keyla Morais-03.png",
+            "08-01-2021 Keyla Morais-04 (1).png",
+            "08-01-2021 Keyla Morais-04.png",
+            "08-01-2021 Keyla Morais-05 (1).png",
+            "08-01-2021 Keyla Morais-05.png"
+        ],
+        "Kansas City": [
+            "ABSTRATO 5-01.png",
+            "ABSTRATO 5-02.png",
+            "ABSTRATO 5-03.png",
+            "ABSTRATO 5-04.png",
+            "ABSTRATO 5-05.png"
+        ],
+        "Kawasaki": [
+            "Borboletas - 1.4-01.png",
+            "Borboletas - 1.4-02.png",
+            "Borboletas - 1.4-03.png",
+            "Borboletas - 1.4-04.png",
+            "Borboletas - 1.4-05.png"
+        ],
+        "Lisboa": [
+            "27-07-2021 Loren Monnyque-01 (1).png",
+            "27-07-2021 Loren Monnyque-01.png",
+            "27-07-2021 Loren Monnyque-02 (1).png",
+            "27-07-2021 Loren Monnyque-02.png",
+            "27-07-2021 Loren Monnyque-03 (1).png",
+            "27-07-2021 Loren Monnyque-03.png",
+            "27-07-2021 Loren Monnyque-04 (1).png",
+            "27-07-2021 Loren Monnyque-04.png",
+            "27-07-2021 Loren Monnyque-05 (1).png",
+            "27-07-2021 Loren Monnyque-05.png"
+        ],
+        "Long Beach": [
+            "ABSTRATO 8-01.png",
+            "ABSTRATO 8-02.png",
+            "ABSTRATO 8-03.png",
+            "ABSTRATO 8-04.png",
+            "ABSTRATO 8-05.png"
+        ],
+        "Luque": [
+            "21-01-2021 Karen Dantas-01 (1).png",
+            "21-01-2021 Karen Dantas-01.png",
+            "21-01-2021 Karen Dantas-02 (1).png",
+            "21-01-2021 Karen Dantas-02.png",
+            "21-01-2021 Karen Dantas-03.png",
+            "21-01-2021 Karen Dantas-04 (1).png",
+            "21-01-2021 Karen Dantas-04.png",
+            "21-01-2021 Karen Dantas-05.png"
+        ],
+        "Luxor": [
+            "07-07-2021 Juliana Oliveira-01 (1).png",
+            "07-07-2021 Juliana Oliveira-01.png",
+            "07-07-2021 Juliana Oliveira-02 (1).png",
+            "07-07-2021 Juliana Oliveira-02.png",
+            "07-07-2021 Juliana Oliveira-03 (1).png",
+            "07-07-2021 Juliana Oliveira-03.png",
+            "07-07-2021 Juliana Oliveira-04 (1).png",
+            "07-07-2021 Juliana Oliveira-04.png",
+            "07-07-2021 Juliana Oliveira-05.png"
+        ],
+        "Miami": [
+            "Floral 10-01.png",
+            "Floral 10-02.png",
+            "Floral 10-03.png",
+            "Floral 10-04.png",
+            "Floral 10-05.png"
+        ],
+        "Nagasaki": [
+            "Borboletas - 1.1-01.png",
+            "Borboletas - 1.1-02.png",
+            "Borboletas - 1.1-03.png",
+            "Borboletas - 1.1-04.png",
+            "Borboletas - 1.1-05.png"
+        ],
+        "Nazaré": [
+            "22-04-2021 Lorena Thamyres-01 (1).png",
+            "22-04-2021 Lorena Thamyres-01.png",
+            "22-04-2021 Lorena Thamyres-02 (1).png",
+            "22-04-2021 Lorena Thamyres-02.png",
+            "22-04-2021 Lorena Thamyres-03 (1).png",
+            "22-04-2021 Lorena Thamyres-03.png",
+            "22-04-2021 Lorena Thamyres-04 (1).png",
+            "22-04-2021 Lorena Thamyres-04.png",
+            "22-04-2021 Lorena Thamyres-05.png"
+        ],
+        "Phoenix": [
+            "Flores Azuis 1.0-01.png",
+            "Flores Azuis 1.0-02.png",
+            "Flores Azuis 1.0-03.png",
+            "Flores Azuis 1.0-04 (1).png",
+            "Flores Azuis 1.0-04.png",
+            "Flores Azuis 1.0-05.png"
+        ],
+        "Piacenza": [
+            "Renata Verônica Cônsolo - 11988520568-01.png",
+            "Renata Verônica Cônsolo - 11988520568-02.png",
+            "Renata Verônica Cônsolo - 11988520568-03.png",
+            "Renata Verônica Cônsolo - 11988520568-04.png",
+            "Renata Verônica Cônsolo - 11988520568-05.png"
+        ],
+        "Safed": [
+            "27-07-2021 Cinthya Helena-01 (1).png",
+            "27-07-2021 Cinthya Helena-01.png",
+            "27-07-2021 Cinthya Helena-02 (1).png",
+            "27-07-2021 Cinthya Helena-02.png",
+            "27-07-2021 Cinthya Helena-03 (1).png",
+            "27-07-2021 Cinthya Helena-03.png",
+            "27-07-2021 Cinthya Helena-04 (1).png",
+            "27-07-2021 Cinthya Helena-04.png",
+            "27-07-2021 Cinthya Helena-05.png"
+        ],
+        "Waterford": [
+            "15-07-2021 Michele Dias-01 (1).png",
+            "15-07-2021 Michele Dias-01.png",
+            "15-07-2021 Michele Dias-02.png",
+            "15-07-2021 Michele Dias-03.png",
+            "15-07-2021 Michele Dias-04 (1).png",
+            "15-07-2021 Michele Dias-04.png",
+            "15-07-2021 Michele Dias-05.png"
+        ],
+        "Yokohama": [
+            "Borboletas - 1.2-01.png",
+            "Borboletas - 1.2-02.png",
+            "Borboletas - 1.2-03.png",
+            "Borboletas - 1.2-04.png",
+            "Borboletas - 1.2-05.png"
+        ]
+    },
+    "Floral": {
+        "Alessandria": [
+            "16-09-2021 Aline Toledo-01.png",
+            "16-09-2021 Aline Toledo-02.png",
+            "16-09-2021 Aline Toledo-03.png",
+            "16-09-2021 Aline Toledo-04.png",
+            "16-09-2021 Aline Toledo-05.png"
+        ],
+        "Amsterdam": [
+            "13-08-2021 Nedivane Bonifácio-01.png",
+            "13-08-2021 Nedivane Bonifácio-02.png",
+            "13-08-2021 Nedivane Bonifácio-03.png",
+            "13-08-2021 Nedivane Bonifácio-04.png",
+            "13-08-2021 Nedivane Bonifácio-05.png",
+            "Ativo 1.png",
+            "Ativo 2.png"
+        ],
+        "Austin": [
+            "Ativo 1@4x-100.jpg",
+            "Ativo 2@4x.png",
+            "Lírios cor de rosa 1.0-01.png",
+            "Lírios cor de rosa 1.0-02.png",
+            "Lírios cor de rosa 1.0-03.png",
+            "Lírios cor de rosa 1.0-04.png",
+            "Lírios cor de rosa 1.0-05.png"
+        ],
+        "Baltimore": [
+            "Rosas amarelas 1.1 nome-02.png",
+            "Rosas amarelas 1.1-01.png",
+            "Rosas amarelas 1.1-02.png",
+            "Rosas amarelas 1.1-03.png",
+            "Rosas amarelas 1.1-04.png",
+            "Rosas amarelas 1.1-05.png"
+        ],
+        "Bangalor": [
+            "Ativo 3@4x.png",
+            "Ativo 3b@4x.png",
+            "Ativo 5@4x.png",
+            "Ativo 6@4x.png",
+            "Ativo 7@4x.png",
+            "Floral - 13.1-01.png",
+            "Floral - 13.1-02.png",
+            "Floral - 13.1-03.png",
+            "Floral - 13.1-04.png",
+            "Floral - 13.1-05.png"
+        ],
+        "Bariloche": [
+            "Floral 04-01.png",
+            "Floral 04-02.png",
+            "Floral 04-03.png",
+            "Floral 04-04.png",
+            "Floral 04-05.png"
+        ],
+        "Basileia": [
+            "Floral - 4-01.png",
+            "Floral - 4-02.png",
+            "Floral - 4-03.png",
+            "Floral - 4-04.png",
+            "Floral - 4-05.png"
+        ],
+        "Bergamo": [
+            "17-09-2021 Kimberlly Zelinski-01.png",
+            "17-09-2021 Kimberlly Zelinski-02.png",
+            "17-09-2021 Kimberlly Zelinski-03.png",
+            "17-09-2021 Kimberlly Zelinski-04.png",
+            "17-09-2021 Kimberlly Zelinski-05.png"
+        ],
+        "Berna": [
+            "Floral - 3-01.png",
+            "Floral - 3-02.png",
+            "Floral - 3-03.png",
+            "Floral - 3-04.png",
+            "Floral - 3-05.png"
+        ],
+        "Berseba": [
+            "27-01-2021 Iara Ferreira-01.png",
+            "27-01-2021 Iara Ferreira-02.png",
+            "27-01-2021 Iara Ferreira-03.png",
+            "27-01-2021 Iara Ferreira-04.png",
+            "27-01-2021 Iara Ferreira-05.png"
+        ],
+        "Bombaim": [
+            "Floral - 9-01.png",
+            "Floral - 9-02.png",
+            "Floral - 9-03.png",
+            "Floral - 9-04.png",
+            "Floral - 9-05.png"
+        ],
+        "Boston": [
+            "Ativo 1@4x.png",
+            "Ativo 2@4x.png",
+            "Rosas amarelas 1.2-01.png",
+            "Rosas amarelas 1.2-02.png",
+            "Rosas amarelas 1.2-03.png",
+            "Rosas amarelas 1.2-04.png",
+            "Rosas amarelas 1.2-05.png"
+        ],
+        "Brest": [
+            "Natureza - 1-01.png",
+            "Natureza - 1-02.png",
+            "Natureza - 1-03.png",
+            "Natureza - 1-04.png",
+            "Natureza - 1-05.png"
+        ],
+        "Buenos Aires": [
+            "Floral 03-01.png",
+            "Floral 03-02.png",
+            "Floral 03-03.png",
+            "Floral 03-04.png",
+            "Floral 03-05.png"
+        ],
+        "Cairo": [
+            "07-06-2021 Helen Rabelo 01-01.png",
+            "07-06-2021 Helen Rabelo 01-02.png",
+            "07-06-2021 Helen Rabelo 01-03.png",
+            "07-06-2021 Helen Rabelo 01-04.png",
+            "07-06-2021 Helen Rabelo 01-05.png"
+        ],
+        "Calcutá": [
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Ativo 22@4x.png",
+            "Ativo 2@4x.png",
+            "Floral - 8-01.png",
+            "Floral - 8-02.png",
+            "Floral - 8-03.png",
+            "Floral - 8-04.png",
+            "Floral - 8-05.png"
+        ],
+        "Charlotte": [
+            "Flores azuis e rosas 1.1-01.png",
+            "Flores azuis e rosas 1.1-02.png",
+            "Flores azuis e rosas 1.1-03.png",
+            "Flores azuis e rosas 1.1-04.png",
+            "Flores azuis e rosas 1.1-05.png"
+        ],
+        "Chicago": [
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Magnólias brancas 1.0-01.png",
+            "Magnólias brancas 1.0-02.png",
+            "Magnólias brancas 1.0-03.png",
+            "Magnólias brancas 1.0-04.png",
+            "Magnólias brancas 1.0-05.png"
+        ],
+        "Cochabamba": [
+            "18-06-2021 Renata Fernanda-01.png",
+            "18-06-2021 Renata Fernanda-02.png",
+            "18-06-2021 Renata Fernanda-03.png",
+            "18-06-2021 Renata Fernanda-04.png",
+            "18-06-2021 Renata Fernanda-05.png"
+        ],
+        "Columbus": [
+            "Ativo 1.png",
+            "Lírios cor de rosa 1.1-01.png",
+            "Lírios cor de rosa 1.1-02.png",
+            "Lírios cor de rosa 1.1-03.png",
+            "Lírios cor de rosa 1.1-04.png",
+            "Lírios cor de rosa 1.1-05.png"
+        ],
+        "Crotone": [
+            "22-09-2021 Queli Morais-01.png",
+            "22-09-2021 Queli Morais-02.png",
+            "22-09-2021 Queli Morais-03.png",
+            "22-09-2021 Queli Morais-04.png",
+            "22-09-2021 Queli Morais-05.png",
+            "Ativo 1@4x.png",
+            "Ativo 2@4x.png"
+        ],
+        "Córdova": [
+            "Floral 11-01.png",
+            "Floral 11-02.png",
+            "Floral 11-03.png",
+            "Floral 11-04.png",
+            "Floral 11-05.png"
+        ],
+        "Deli": [
+            "Ativo 1.png",
+            "Ativo 1@4x.png",
+            "Floral - 10-01.png",
+            "Floral - 10-02.png",
+            "Floral - 10-03.png",
+            "Floral - 10-04.png",
+            "Floral - 10-05.png"
+        ],
+        "Detroit": [
+            "Ativasd@4x.png",
+            "Ativo 1@4x.png",
+            "Ativo 2@4x.png",
+            "Ativo 3@4x.png",
+            "Ativo 4@4x.png",
+            "Flores azuis e rosas 1.2-01.png",
+            "Flores azuis e rosas 1.2-02.png",
+            "Flores azuis e rosas 1.2-03.png",
+            "Flores azuis e rosas 1.2-04.png",
+            "Flores azuis e rosas 1.2-05.png"
+        ],
+        "Dublin": [
+            "12-06-2021 Daiane Brozoski-01.png",
+            "12-06-2021 Daiane Brozoski-02.png",
+            "12-06-2021 Daiane Brozoski-03.png",
+            "12-06-2021 Daiane Brozoski-04.png",
+            "12-06-2021 Daiane Brozoski-05.png"
+        ],
+        "El Paso": [
+            "Flores azuis e rosas 1.0-01.png",
+            "Flores azuis e rosas 1.0-02.png",
+            "Flores azuis e rosas 1.0-03.png",
+            "Flores azuis e rosas 1.0-04.png",
+            "Flores azuis e rosas 1.0-05.png"
+        ],
+        "Fort Worth": [
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Lírios cor de rosa 1.2-01.png",
+            "Lírios cor de rosa 1.2-02.png",
+            "Lírios cor de rosa 1.2-03.png",
+            "Lírios cor de rosa 1.2-04.png",
+            "Lírios cor de rosa 1.2-05.png"
+        ],
+        "Genebra": [
+            "Floral - 2-01.png",
+            "Floral - 2-02.png",
+            "Floral - 2-03.png",
+            "Floral - 2-04.png",
+            "Floral - 2-05.png"
+        ],
+        "Genova": [
+            "15-09-2021 Monisa de Oliveira-01.png",
+            "15-09-2021 Monisa de Oliveira-02.png",
+            "15-09-2021 Monisa de Oliveira-03.png",
+            "15-09-2021 Monisa de Oliveira-04.png",
+            "15-09-2021 Monisa de Oliveira-05.png"
+        ],
+        "Gracinha": [
+            "Ativo 1@4x.png"
+        ],
+        "Haifa": [
+            "27-01-2021 Jéssica Caroline-01.png",
+            "27-01-2021 Jéssica Caroline-02.png",
+            "27-01-2021 Jéssica Caroline-03.png",
+            "27-01-2021 Jéssica Caroline-04.png",
+            "27-01-2021 Jéssica Caroline-05.png"
+        ],
+        "Hiroshima": [
+            "Ativo 1@4x.png",
+            "Ativo 2@4x.png",
+            "Ativo 3@4x.png",
+            "Ativo 4@4x.png",
+            "Floral - 14-01.png",
+            "Floral - 14-02.png",
+            "Floral - 14-03.png",
+            "Floral - 14-04.png",
+            "Floral - 14-05.png"
+        ],
+        "Jerusalém": [
+            "21-01-2021 Viviane Rosa-01.png",
+            "21-01-2021 Viviane Rosa-02.png",
+            "21-01-2021 Viviane Rosa-03.png",
+            "21-01-2021 Viviane Rosa-04.png",
+            "21-01-2021 Viviane Rosa-05.png",
+            "Ativo 1@4x.png"
+        ],
+        "Konya": [
+            "09-07-2021 Lorrayne Gabriela Camargo-01.png",
+            "09-07-2021 Lorrayne Gabriela Camargo-02.png",
+            "09-07-2021 Lorrayne Gabriela Camargo-03.png",
+            "09-07-2021 Lorrayne Gabriela Camargo-04.png",
+            "09-07-2021 Lorrayne Gabriela Camargo-05.png"
+        ],
+        "Lisse": [
+            "23-08-2021 Larissa Tifany-01.png",
+            "23-08-2021 Larissa Tifany-02.png",
+            "23-08-2021 Larissa Tifany-03.png",
+            "23-08-2021 Larissa Tifany-04.png",
+            "23-08-2021 Larissa Tifany-05.png"
+        ],
+        "Los Angeles": [
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Magnólias brancas 1.1-01.png",
+            "Magnólias brancas 1.1-02.png",
+            "Magnólias brancas 1.1-03.png",
+            "Magnólias brancas 1.1-04.png",
+            "Magnólias brancas 1.1-05.png"
+        ],
+        "Lucerna": [
+            "Ativo 1@4x.png",
+            "Ativo 2@4x.png",
+            "Floral - 5-01.png",
+            "Floral - 5-02.png",
+            "Floral - 5-03.png",
+            "Floral - 5-04.png",
+            "Floral - 5-05.png"
+        ],
+        "Lugano": [
+            "Floral - 7-01.png",
+            "Floral - 7-02.png",
+            "Floral - 7-03.png",
+            "Floral - 7-04.png",
+            "Floral - 7-05.png"
+        ],
+        "Marselha": [
+            "Abstrato - 2-01.png",
+            "Abstrato - 2-02.png",
+            "Abstrato - 2-03.png",
+            "Abstrato - 2-04.png",
+            "Abstrato - 2-05.png"
+        ],
+        "Memphis": [
+            "Rosas amarelas 1.0-01.png",
+            "Rosas amarelas 1.0-02.png",
+            "Rosas amarelas 1.0-03.png",
+            "Rosas amarelas 1.0-04.png",
+            "Rosas amarelas 1.0-05.png"
+        ],
+        "Mendoza": [
+            "Floral 08-01.png",
+            "Floral 08-02.png",
+            "Floral 08-03.png",
+            "Floral 08-04.png",
+            "Floral 08-05.png"
+        ],
+        "Monza": [
+            "11-09-2021 Ana Paula (Pastora Marjorye)-01.png",
+            "11-09-2021 Ana Paula (Pastora Marjorye)-02.png",
+            "11-09-2021 Ana Paula (Pastora Marjorye)-03.png",
+            "11-09-2021 Ana Paula (Pastora Marjorye)-04.png",
+            "11-09-2021 Ana Paula (Pastora Marjorye)-05.png"
+        ],
+        "Moscou": [
+            "Andressa Freire Cavalcanti - 8796645352-01.png",
+            "Andressa Freire Cavalcanti - 8796645352-02.png",
+            "Andressa Freire Cavalcanti - 8796645352-03.png",
+            "Andressa Freire Cavalcanti - 8796645352-04.png",
+            "Andressa Freire Cavalcanti - 8796645352-05.png"
+        ],
+        "Niagara Falls": [
+            "Floral 01-01.png",
+            "Floral 01-02.png",
+            "Floral 01-03.png",
+            "Floral 01-04.png",
+            "Floral 01-05.png"
+        ],
+        "Nîmes": [
+            "Natureza - 2-01.png",
+            "Natureza - 2-02.png",
+            "Natureza - 2-03.png",
+            "Natureza - 2-04.png",
+            "Natureza - 2-05.png"
+        ],
+        "Osaka": [
+            "Floral - 15-01.png",
+            "Floral - 15-02.png",
+            "Floral - 15-03.png",
+            "Floral - 15-04.png",
+            "Floral - 15-05.png"
+        ],
+        "Roma": [
+            "11-09-2021 Tânia Bernart 02-01.png",
+            "11-09-2021 Tânia Bernart 02-02.png",
+            "11-09-2021 Tânia Bernart 02-03.png",
+            "11-09-2021 Tânia Bernart 02-04.png",
+            "11-09-2021 Tânia Bernart 02-05.png"
+        ],
+        "Rotterdam": [
+            "24-08-2021 Larissa Fernanda-01.png",
+            "24-08-2021 Larissa Fernanda-02.png",
+            "24-08-2021 Larissa Fernanda-03.png",
+            "24-08-2021 Larissa Fernanda-04.png",
+            "24-08-2021 Larissa Fernanda-05.png"
+        ],
+        "Sakai": [
+            "Andressa Fernandes-01.png",
+            "Andressa Fernandes-02.png",
+            "Andressa Fernandes-03.png",
+            "Andressa Fernandes-04.png",
+            "Andressa Fernandes-05.png",
+            "Ativo 1.png",
+            "Ativo 2.png",
+            "Ativo 2@4x.png",
+            "Ativo 3.png"
+        ],
+        "Salta": [
+            "Floral 09-01.png",
+            "Floral 09-02.png",
+            "Floral 09-03.png",
+            "Floral 09-04.png",
+            "Floral 09-05.png"
+        ],
+        "San Antonio": [
+            "Flores 1.0-01.png",
+            "Flores 1.0-02.png",
+            "Flores 1.0-03.png",
+            "Flores 1.0-04.png",
+            "Flores 1.0-05.png"
+        ],
+        "San Diego": [
+            "Flores 1.1-01.png",
+            "Flores 1.1-02.png",
+            "Flores 1.1-03.png",
+            "Flores 1.1-04.png",
+            "Flores 1.1-05.png"
+        ],
+        "Seattle": [
+            "Rosas amarelas 1.3-01.png",
+            "Rosas amarelas 1.3-02.png",
+            "Rosas amarelas 1.3-03.png",
+            "Rosas amarelas 1.3-04.png",
+            "Rosas amarelas 1.3-05.png"
+        ],
+        "Shizuoka": [
+            "Aquarela - 2-01.png",
+            "Aquarela - 2-02.png",
+            "Aquarela - 2-03.png",
+            "Aquarela - 2-04.png",
+            "Aquarela - 2-05.png"
+        ],
+        "Sochi": [
+            "31-08-2021 Heulla Maria (Sara)-01.png",
+            "31-08-2021 Heulla Maria (Sara)-02.png",
+            "31-08-2021 Heulla Maria (Sara)-03.png",
+            "31-08-2021 Heulla Maria (Sara)-04.png",
+            "31-08-2021 Heulla Maria (Sara)-05.png"
+        ],
+        "São Petersburgo": [
+            "Lânick Richelly Rodrigues de Lima - 8387590270-01.png",
+            "Lânick Richelly Rodrigues de Lima - 8387590270-02.png",
+            "Lânick Richelly Rodrigues de Lima - 8387590270-03.png",
+            "Lânick Richelly Rodrigues de Lima - 8387590270-04.png",
+            "Lânick Richelly Rodrigues de Lima - 8387590270-05.png"
+        ],
+        "Telavive": [
+            "30-07-2021 Géssica dos Santos-01.png",
+            "30-07-2021 Géssica dos Santos-02.png",
+            "30-07-2021 Géssica dos Santos-03.png",
+            "30-07-2021 Géssica dos Santos-04.png",
+            "30-07-2021 Géssica dos Santos-05.png"
+        ],
+        "Tóquio": [
+            "Ativo 3@4x.png",
+            "Ativo 4@4x.png",
+            "Floral - 13-01.png",
+            "Floral - 13-02.png",
+            "Floral - 13-03.png",
+            "Floral - 13-04.png",
+            "Floral - 13-05.png"
+        ],
+        "Ushuaia": [
+            "Floral 05-01.png",
+            "Floral 05-02.png",
+            "Floral 05-03.png",
+            "Floral 05-04.png",
+            "Floral 05-05.png"
+        ],
+        "Verona": [
+            "15-09-2021 Natália Pereira-01.png",
+            "15-09-2021 Natália Pereira-02.png",
+            "15-09-2021 Natália Pereira-03.png",
+            "15-09-2021 Natália Pereira-04.png",
+            "15-09-2021 Natália Pereira-05.png"
+        ],
+        "Viareggio": [
+            "14-09-2021 Dayara Kellen-01.png",
+            "14-09-2021 Dayara Kellen-02.png",
+            "14-09-2021 Dayara Kellen-03.png",
+            "14-09-2021 Dayara Kellen-04.png",
+            "14-09-2021 Dayara Kellen-05.png"
+        ],
+        "Zurique": [
+            "Floral - 1.1-01.png",
+            "Floral - 1.1-02.png",
+            "Floral - 1.1-03.png",
+            "Floral - 1.1-04.png",
+            "Floral - 1.1-05.png"
+        ]
+    },
+    "flork capas": {
+        "advogada": [
+            "Advogada1 (1).png",
+            "Advogada1.png",
+            "Advogada2.png",
+            "Advogado02.png",
+            "Advogado1.png",
+            "capa advogado Flork.png",
+            "contracapa advogadA flork.png",
+            "contracapa Advogadoo flork.png",
+            "flork advogada.png"
+        ],
+        "arquiteta": [
+            "Arquiteta01.png",
+            "Arquiteta2.png",
+            "capa flork arquiteta.png",
+            "contracapa flork arquiteta.png"
+        ],
+        "artesã": [
+            "Artesa01.png",
+            "Artesa02.png",
+            "artsão flork editavel.png",
+            "artsão flork editavel1.png"
+        ],
+        "cabeleireira": [
+            "cabeleireira verso.jpg",
+            "Cabeleireira.png",
+            "Cabelereira02.png",
+            "capa cabeleleira f.jpg"
+        ],
+        "confeiteira": [
+            "confeiteira flock capa.png",
+            "Confeiteira01.png",
+            "Confeiteira02.png",
+            "contraca flork confeiteira.png"
+        ],
+        "contador": [
+            "capa flork contador.png",
+            "capa flork contadora.png",
+            "contracapa flork contador.png",
+            "contracapa flork contadora.png"
+        ],
+        "DENTISTA": [
+            "DENSTISTA VERSO.jpg",
+            "DENTISTA CAA.jpg",
+            "Dentista01.png",
+            "Dentista02.png"
+        ],
+        "designer de sobrancelha": [
+            "flork capa sobrancelha.png",
+            "flork capa sobrancelhas.png"
+        ],
+        "empreendedora": [
+            "empreendedora capa.jpg",
+            "empreendedora verso.jpg",
+            "Empreendedora.png",
+            "Empreendedora02.png"
+        ],
+        "enfermagem": [
+            "capa flork enfermagem.png",
+            "contracapa flor enfermagem.png",
+            "Enfermeira01.png",
+            "Enfermeira2.png"
+        ],
+        "ESTETICISTA": [
+            "CAPA.jpg",
+            "CONTRACAPA.jpg",
+            "Esteticista01.png",
+            "Esteticista02.png"
+        ],
+        "farmaceutica": [
+            "capa farmaceutica.jpg",
+            "CONTRACA FARMACEUTICO.jpg",
+            "Farmaceutica02.png",
+            "Farmacêutica01.png"
+        ],
+        "florks pack 2": [
+            "Biologa01.png",
+            "Biologo01.png",
+            "Biologo02.png",
+            "Biomedica01.png",
+            "Biomedica02.png",
+            "Bióloga02.png",
+            "Contador01.png",
+            "Contador02.png",
+            "Contadora01.png",
+            "Contadora02.png",
+            "DesignerGrafico01.png",
+            "DesignerGraficoF01.png",
+            "DesignerGraficoF02.png",
+            "DesignerGraficoM02.png",
+            "EducadoraInfantil01.png",
+            "EducadoraInfantil02.png",
+            "Fisioterapeuta01.png",
+            "Fisioterapeuta02.png",
+            "Maquiadora01.png",
+            "Maquiadora02.png",
+            "Medica01.png",
+            "Medica02.png",
+            "Medico01.png",
+            "Medico02.png",
+            "PersonalTrainer01.png",
+            "PersonalTrainer02.png",
+            "PersonalTrainerF01.png",
+            "PersonalTrainerF02.png",
+            "ProfissionalTI01.png",
+            "ProfissionalTI02.png",
+            "ProfissionalTIf01.png",
+            "ProfissionalTIf02.png",
+            "Vendedora01.png",
+            "Vendedora02.png",
+            "Veterinaria01.png",
+            "Veterinario02.png",
+            "Veterinária02.png",
+            "Veterinário01.png"
+        ],
+        "jornalista": [
+            "capa flork jornalista.png",
+            "contracapa flor jornalista.png",
+            "Jornalista01.png",
+            "Jornalista02.png"
+        ],
+        "manicure": [
+            "capa flork manicure.png",
+            "contracapa flork manicure.png",
+            "Manicure01.png",
+            "Manicure02.png"
+        ],
+        "MAQUIADORA FORK": [
+            "CAPA FLORK MAQUIADORA.png",
+            "FLORKS MAQUIADORA contracapa.png"
+        ],
+        "medico": [
+            "capa flork veterinaria.png",
+            "capa medica flork.png",
+            "capa medico flork.png",
+            "capa medicoo flork.png",
+            "contracapa flork medico.png",
+            "flork veterinario menina.png",
+            "FLORKS VETERINARIO masc.png",
+            "FLORKS VETERINARIOo contracapa.png",
+            "Medica01 (1).png",
+            "Medica02.png",
+            "Medico01.png",
+            "Medico02.png"
+        ],
+        "nutricionista": [
+            "nutricionista contracapa.jpg",
+            "nutricionista.jpg",
+            "Nutricionista01.png",
+            "Nutricionista02.png"
+        ],
+        "professor": [
+            "contracapa flork professora.png",
+            "contracapa professor.png",
+            "flork profesor.png",
+            "flork professora.png",
+            "Professor01.png",
+            "Professor02.png",
+            "Professora01.png",
+            "Professora02.png"
+        ],
+        "pscicologa": [
+            "flork pscicologa contracapa.png",
+            "flork psicologa capa.png",
+            "Psicóloga.png",
+            "Psicóloga02.png"
+        ],
+        "super mãe": [
+            "super mae verso.jpg",
+            "super mãe.jpg",
+            "SuperMae01.png",
+            "SuperMae2 (1).png"
+        ],
+        "VENDEDOR": [
+            "FLORK VENDEDOR capa.png",
+            "FLORK VENDEDOR contracapa.png",
+            "FLORK VENDEDORa capa.png",
+            "FLORK VENDEDORa.png",
+            "FLORK VERSO VENDEDOR.jpg",
+            "VENDEDOR FLOR CAPA.jpg",
+            "Vendedor01.png",
+            "Vendedor02.png",
+            "Vendedora01.png",
+            "Vendedora02.png"
+        ],
+        "VETERINARIO": [
+            "capa flork veterinaria.png",
+            "flork veterinario menina.png",
+            "FLORKS VETERINARIO masc.png",
+            "FLORKS VETERINARIOo contracapa.png",
+            "Veterinaria01.png",
+            "Veterinario02.png",
+            "Veterinária02.png",
+            "Veterinário01.png"
+        ]
+    },
+    "Geométrico": {
+        "Amiens": [
+            "Geométrico - 2-01.png",
+            "Geométrico - 2-02.png",
+            "Geométrico - 2-03.png",
+            "Geométrico - 2-04.png",
+            "Geométrico - 2-05.png"
+        ],
+        "Angers": [
+            "Geométrico - 3-01.png",
+            "Geométrico - 3-02.png",
+            "Geométrico - 3-03.png",
+            "Geométrico - 3-04.png",
+            "Geométrico - 3-05.png"
+        ],
+        "Antibes": [
+            "Geométrico - 8-01.png",
+            "Geométrico - 8-02.png",
+            "Geométrico - 8-03.png",
+            "Geométrico - 8-04.png",
+            "Geométrico - 8-05.png"
+        ],
+        "Arezzo": [
+            "Sheila Brito Matos - 7591090441-01.png",
+            "Sheila Brito Matos - 7591090441-02.png",
+            "Sheila Brito Matos - 7591090441-03.png",
+            "Sheila Brito Matos - 7591090441-04.png",
+            "Sheila Brito Matos - 7591090441-05.png"
+        ],
+        "Banff": [
+            "GEOMÉTRICOS 11-01.png",
+            "GEOMÉTRICOS 11-02.png",
+            "GEOMÉTRICOS 11-03.png",
+            "GEOMÉTRICOS 11-04.png",
+            "GEOMÉTRICOS 11-05.png"
+        ],
+        "Barcelona": [
+            "Minimalista - 14-01.png",
+            "Minimalista - 14-02.png",
+            "Minimalista - 14-03.png",
+            "Minimalista - 14-04.png",
+            "Minimalista - 14-05.png"
+        ],
+        "Bray": [
+            "16-06-2021 Mayara Amaral-01.png",
+            "16-06-2021 Mayara Amaral-02.png",
+            "16-06-2021 Mayara Amaral-03.png",
+            "16-06-2021 Mayara Amaral-04.png",
+            "16-06-2021 Mayara Amaral-05.png"
+        ],
+        "Calgary": [
+            "GEOMÉTRICOS 6-01.png",
+            "GEOMÉTRICOS 6-02.png",
+            "GEOMÉTRICOS 6-03.png",
+            "GEOMÉTRICOS 6-04.png",
+            "GEOMÉTRICOS 6-05.png"
+        ],
+        "Chernobyl": [
+            "03-08-2021 Luiz Augusto (Shalon Fotos)-01.png",
+            "03-08-2021 Luiz Augusto (Shalon Fotos)-02.png",
+            "03-08-2021 Luiz Augusto (Shalon Fotos)-03.png",
+            "03-08-2021 Luiz Augusto (Shalon Fotos)-04.png",
+            "03-08-2021 Luiz Augusto (Shalon Fotos)-05.png"
+        ],
+        "Copenhagen": [
+            "Geométrico - 9-01.png",
+            "Geométrico - 9-02.png",
+            "Geométrico - 9-03.png",
+            "Geométrico - 9-04.png",
+            "Geométrico - 9-05.png"
+        ],
+        "Denver": [
+            "Geométrico com mármore - 1-01.png",
+            "Geométrico com mármore - 1-02.png",
+            "Geométrico com mármore - 1-03.png",
+            "Geométrico com mármore - 1-04.png",
+            "Geométrico com mármore - 1-05.png"
+        ],
+        "Doha": [
+            "21-01-2021 Rafaela da Silva-01.png",
+            "21-01-2021 Rafaela da Silva-02.png",
+            "21-01-2021 Rafaela da Silva-03.png",
+            "21-01-2021 Rafaela da Silva-04.png",
+            "21-01-2021 Rafaela da Silva-05.png"
+        ],
+        "Doolin": [
+            "17-06-2021 Priscilla Maria-01.png",
+            "17-06-2021 Priscilla Maria-02.png",
+            "17-06-2021 Priscilla Maria-03.png",
+            "17-06-2021 Priscilla Maria-04.png",
+            "17-06-2021 Priscilla Maria-05.png"
+        ],
+        "Dortmund": [
+            "Minimalista - 3-01.png",
+            "Minimalista - 3-02.png",
+            "Minimalista - 3-03.png",
+            "Minimalista - 3-04.png",
+            "Minimalista - 3-05.png"
+        ],
+        "Drancy": [
+            "27-08-2021 Marcela Luiza-01.png",
+            "27-08-2021 Marcela Luiza-02.png",
+            "27-08-2021 Marcela Luiza-03.png",
+            "27-08-2021 Marcela Luiza-04.png",
+            "27-08-2021 Marcela Luiza-05.png"
+        ],
+        "Düsseldorf": [
+            "Minimalista - 2-01.png",
+            "Minimalista - 2-02.png",
+            "Minimalista - 2-03.png",
+            "Minimalista - 2-04.png",
+            "Minimalista - 2-05.png"
+        ],
+        "Estrasburgo": [
+            "Geométrico - 5-01.png",
+            "Geométrico - 5-02.png",
+            "Geométrico - 5-03.png",
+            "Geométrico - 5-04.png",
+            "Geométrico - 5-05.png"
+        ],
+        "Frankfurt": [
+            "Minimalista - 6-01.png",
+            "Minimalista - 6-02.png",
+            "Minimalista - 6-03.png",
+            "Minimalista - 6-04.png",
+            "Minimalista - 6-05.png"
+        ],
+        "Granada": [
+            "Minimalista - 11-01.png",
+            "Minimalista - 11-02.png",
+            "Minimalista - 11-03.png",
+            "Minimalista - 11-04.png",
+            "Minimalista - 11-05.png"
+        ],
+        "Guizé": [
+            "07-07-2021 Simone Pereira-01.png",
+            "07-07-2021 Simone Pereira-02.png",
+            "07-07-2021 Simone Pereira-03.png",
+            "07-07-2021 Simone Pereira-04.png",
+            "07-07-2021 Simone Pereira-05.png"
+        ],
+        "Halifax": [
+            "GEOMÉTRICOS 7-01.png",
+            "GEOMÉTRICOS 7-02.png",
+            "GEOMÉTRICOS 7-03.png",
+            "GEOMÉTRICOS 7-04.png",
+            "GEOMÉTRICOS 7-05.png"
+        ],
+        "Kaliningrado": [
+            "Izabela Ferreira Fonseca - 3183994546-01.png",
+            "Izabela Ferreira Fonseca - 3183994546-02.png",
+            "Izabela Ferreira Fonseca - 3183994546-03.png",
+            "Izabela Ferreira Fonseca - 3183994546-04.png",
+            "Izabela Ferreira Fonseca - 3183994546-05.png"
+        ],
+        "Kazan": [
+            "13-08-2021 Jenifer Santos-01.png",
+            "13-08-2021 Jenifer Santos-02.png",
+            "13-08-2021 Jenifer Santos-03.png",
+            "13-08-2021 Jenifer Santos-04.png",
+            "13-08-2021 Jenifer Santos-05.png"
+        ],
+        "La Rochelle": [
+            "Geométrico - 7-01.png",
+            "Geométrico - 7-02.png",
+            "Geométrico - 7-03.png",
+            "Geométrico - 7-04.png",
+            "Geométrico - 7-05.png"
+        ],
+        "Lens": [
+            "Masculina 8-01.png",
+            "Masculina 8-02.png",
+            "Masculina 8-03.png",
+            "Masculina 8-04.png",
+            "Masculina 8-05.png"
+        ],
+        "Londres": [
+            "26-06-2021 Layla Beatriz-01.png",
+            "26-06-2021 Layla Beatriz-02.png",
+            "26-06-2021 Layla Beatriz-03.png",
+            "26-06-2021 Layla Beatriz-04.png",
+            "26-06-2021 Layla Beatriz-05.png"
+        ],
+        "Lorient": [
+            "Masculina 5-01.png",
+            "Masculina 5-02.png",
+            "Masculina 5-03.png",
+            "Masculina 5-04.png",
+            "Masculina 5-05.png"
+        ],
+        "Louisville": [
+            "Ativo 1@4x-100.jpg",
+            "Ativo 2@4x-100.jpg",
+            "Ativo 3@4x-100.jpg",
+            "Geométrico com mármore - 2-01.png",
+            "Geométrico com mármore - 2-02.png",
+            "Geométrico com mármore - 2-03.png",
+            "Geométrico com mármore - 2-04.png",
+            "Geométrico com mármore - 2-05.png"
+        ],
+        "Metz": [
+            "Masculina 2-01.png",
+            "Masculina 2-02.png",
+            "Masculina 2-03.png",
+            "Masculina 2-04.png",
+            "Masculina 2-05.png"
+        ],
+        "Montreal": [
+            "GEOMÉTRICOS 5-01.png",
+            "GEOMÉTRICOS 5-02.png",
+            "GEOMÉTRICOS 5-03.png",
+            "GEOMÉTRICOS 5-04.png",
+            "GEOMÉTRICOS 5-05.png"
+        ],
+        "Munique": [
+            "Minimalista - 4-01.png",
+            "Minimalista - 4-02.png",
+            "Minimalista - 4-03.png",
+            "Minimalista - 4-04.png",
+            "Minimalista - 4-05.png"
+        ],
+        "Nairóbi": [
+            "21-01-2021 Priscilla Figueiredo-01.png",
+            "21-01-2021 Priscilla Figueiredo-02.png",
+            "21-01-2021 Priscilla Figueiredo-03.png",
+            "21-01-2021 Priscilla Figueiredo-04.png",
+            "21-01-2021 Priscilla Figueiredo-05.png"
+        ],
+        "Napoli": [
+            "Patricia Claro Barbier - 6798813122-01.png",
+            "Patricia Claro Barbier - 6798813122-02.png",
+            "Patricia Claro Barbier - 6798813122-03.png",
+            "Patricia Claro Barbier - 6798813122-04.png",
+            "Patricia Claro Barbier - 6798813122-05.png"
+        ],
+        "Narbona": [
+            "Masculina 6-01.png",
+            "Masculina 6-02.png",
+            "Masculina 6-03.png",
+            "Masculina 6-04.png",
+            "Masculina 6-05.png"
+        ],
+        "Nice": [
+            "Geométrico - 4-01.png",
+            "Geométrico - 4-02.png",
+            "Geométrico - 4-03.png",
+            "Geométrico - 4-04.png",
+            "Geométrico - 4-05.png"
+        ],
+        "Nyborg": [
+            "Geométrico - 10-01.png",
+            "Geométrico - 10-02.png",
+            "Geométrico - 10-03.png",
+            "Geométrico - 10-04.png",
+            "Geométrico - 10-05.png"
+        ],
+        "Odesa": [
+            "10-08-2021 Aline Videlina-01.png",
+            "10-08-2021 Aline Videlina-02.png",
+            "10-08-2021 Aline Videlina-03.png",
+            "10-08-2021 Aline Videlina-04.png",
+            "10-08-2021 Aline Videlina-05.png"
+        ],
+        "Oklahoma": [
+            "Geométrico com mármore - 5-01.png",
+            "Geométrico com mármore - 5-02.png",
+            "Geométrico com mármore - 5-03.png",
+            "Geométrico com mármore - 5-04.png",
+            "Geométrico com mármore - 5-05.png"
+        ],
+        "Omsk": [
+            "Damaris Scarleth Alves de Rezende - 8798096549-01.png",
+            "Damaris Scarleth Alves de Rezende - 8798096549-02.png",
+            "Damaris Scarleth Alves de Rezende - 8798096549-03.png",
+            "Damaris Scarleth Alves de Rezende - 8798096549-04.png",
+            "Damaris Scarleth Alves de Rezende - 8798096549-05.png"
+        ],
+        "Ottawa": [
+            "GEOMÉTRICOS 4-01.png",
+            "GEOMÉTRICOS 4-02.png",
+            "GEOMÉTRICOS 4-03.png",
+            "GEOMÉTRICOS 4-04.png",
+            "GEOMÉTRICOS 4-05.png"
+        ],
+        "Palermo": [
+            "11-09-2021 Tânia Bernart 01-01.png",
+            "11-09-2021 Tânia Bernart 01-02.png",
+            "11-09-2021 Tânia Bernart 01-03.png",
+            "11-09-2021 Tânia Bernart 01-04.png",
+            "11-09-2021 Tânia Bernart 01-05.png"
+        ],
+        "Portland": [
+            "Ativo 1@4x.png",
+            "Geométrico com mármore - 6-01.png",
+            "Geométrico com mármore - 6-02.png",
+            "Geométrico com mármore - 6-03.png",
+            "Geométrico com mármore - 6-04.png",
+            "Geométrico com mármore - 6-05.png"
+        ],
+        "Punta del Este": [
+            "05-05-2021 Elaine S. Loula-01.png",
+            "05-05-2021 Elaine S. Loula-02.png",
+            "05-05-2021 Elaine S. Loula-03.png",
+            "05-05-2021 Elaine S. Loula-04.png",
+            "05-05-2021 Elaine S. Loula-05.png"
+        ],
+        "Saint-Étienne": [
+            "Geométrico - 6-01.png",
+            "Geométrico - 6-02.png",
+            "Geométrico - 6-03.png",
+            "Geométrico - 6-04.png",
+            "Geométrico - 6-05.png"
+        ],
+        "Salamanca": [
+            "Minimalista - 12-01.png",
+            "Minimalista - 12-02.png",
+            "Minimalista - 12-03.png",
+            "Minimalista - 12-04.png",
+            "Minimalista - 12-05.png"
+        ],
+        "Terni": [
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 01-01.png",
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 01-02.png",
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 01-03.png",
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 01-04.png",
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 01-05.png"
+        ],
+        "Toronto": [
+            "GEOMÉTRICOS 1-01.png",
+            "GEOMÉTRICOS 1-02.png",
+            "GEOMÉTRICOS 1-03.png",
+            "GEOMÉTRICOS 1-04.png",
+            "GEOMÉTRICOS 1-05.png"
+        ],
+        "Toulouse": [
+            "Masculina 1-01.png",
+            "Masculina 1-02.png",
+            "Masculina 1-03.png",
+            "Masculina 1-04.png",
+            "Masculina 1-05.png"
+        ],
+        "Troyes": [
+            "Masculina 9-01.png",
+            "Masculina 9-02.png",
+            "Masculina 9-03.png",
+            "Masculina 9-04.png",
+            "Masculina 9-05.png"
+        ],
+        "Valence": [
+            "Masculina 4-01.png",
+            "Masculina 4-02.png",
+            "Masculina 4-03.png",
+            "Masculina 4-04.png",
+            "Masculina 4-05.png"
+        ],
+        "Vancouver": [
+            "GEOMÉTRICOS 2-01.png",
+            "GEOMÉTRICOS 2-02.png",
+            "GEOMÉTRICOS 2-03.png",
+            "GEOMÉTRICOS 2-04.png",
+            "GEOMÉTRICOS 2-05.png"
+        ],
+        "Veneza": [
+            "19-01-2021 Keila Rodrigues-01.png",
+            "19-01-2021 Keila Rodrigues-02.png",
+            "19-01-2021 Keila Rodrigues-03.png",
+            "19-01-2021 Keila Rodrigues-04.png",
+            "19-01-2021 Keila Rodrigues-05.png"
+        ],
+        "Versalhes": [
+            "Masculina 3-01.png",
+            "Masculina 3-02.png",
+            "Masculina 3-03.png",
+            "Masculina 3-04.png",
+            "Masculina 3-05.png"
+        ],
+        "Victoria": [
+            "GEOMÉTRICOS 8-01.png",
+            "GEOMÉTRICOS 8-02.png",
+            "GEOMÉTRICOS 8-03.png",
+            "GEOMÉTRICOS 8-04.png",
+            "GEOMÉTRICOS 8-05.png"
+        ],
+        "Vienne": [
+            "Masculina 7-01.png",
+            "Masculina 7-02.png",
+            "Masculina 7-03.png",
+            "Masculina 7-04.png",
+            "Masculina 7-05.png"
+        ],
+        "Volgogrado": [
+            "25-08-2021 Lidiane Kohl-01.png",
+            "25-08-2021 Lidiane Kohl-02.png",
+            "25-08-2021 Lidiane Kohl-03.png",
+            "25-08-2021 Lidiane Kohl-04.png",
+            "25-08-2021 Lidiane Kohl-05.png"
+        ],
+        "Washington": [
+            "Geométrico com mármore - 7-01.png",
+            "Geométrico com mármore - 7-02.png",
+            "Geométrico com mármore - 7-03.png",
+            "Geométrico com mármore - 7-04.png",
+            "Geométrico com mármore - 7-05.png"
+        ],
+        "Westport": [
+            "18-01-2021 Jéssica de Souza-01.png",
+            "18-01-2021 Jéssica de Souza-02.png",
+            "18-01-2021 Jéssica de Souza-03.png",
+            "18-01-2021 Jéssica de Souza-04.png",
+            "18-01-2021 Jéssica de Souza-05.png"
+        ]
+    },
+    "Marmorizado": {
+        "Assuã": [
+            "07-07-2021 Nathiany Zabini-01.png",
+            "07-07-2021 Nathiany Zabini-02.png",
+            "07-07-2021 Nathiany Zabini-03.png",
+            "07-07-2021 Nathiany Zabini-04.png",
+            "07-07-2021 Nathiany Zabini-05.png"
+        ],
+        "Barranquilla": [
+            "Mármore 04-01.png",
+            "Mármore 04-02.png",
+            "Mármore 04-03.png",
+            "Mármore 04-04.png",
+            "Mármore 04-05.png"
+        ],
+        "Bogotá": [
+            "Mármore 01-01.png",
+            "Mármore 01-02.png",
+            "Mármore 01-03.png",
+            "Mármore 01-04.png",
+            "Mármore 01-05.png"
+        ],
+        "Cali": [
+            "Mármore 03-01.png",
+            "Mármore 03-02.png",
+            "Mármore 03-03.png",
+            "Mármore 03-04.png",
+            "Mármore 03-05.png"
+        ],
+        "Delft": [
+            "21-08-2021 Aléxia Castro-01.png",
+            "21-08-2021 Aléxia Castro-02.png",
+            "21-08-2021 Aléxia Castro-03.png",
+            "21-08-2021 Aléxia Castro-04.png",
+            "21-08-2021 Aléxia Castro-05.png"
+        ],
+        "Florencia": [
+            "Mármore 09-01.png",
+            "Mármore 09-02.png",
+            "Mármore 09-03.png",
+            "Mármore 09-04.png",
+            "Mármore 09-05.png"
+        ],
+        "Groningen": [
+            "25-08-2021 Jamili Vieira-01.png",
+            "25-08-2021 Jamili Vieira-02.png",
+            "25-08-2021 Jamili Vieira-03.png",
+            "25-08-2021 Jamili Vieira-04.png",
+            "25-08-2021 Jamili Vieira-05.png"
+        ],
+        "Guatapé": [
+            "Mármore 07-01.png",
+            "Mármore 07-02.png",
+            "Mármore 07-03.png",
+            "Mármore 07-04.png",
+            "Mármore 07-05.png"
+        ],
+        "Istambul": [
+            "08-01-2021 Luiza Torres-01.png",
+            "08-01-2021 Luiza Torres-02.png",
+            "08-01-2021 Luiza Torres-03.png",
+            "08-01-2021 Luiza Torres-04.png",
+            "08-01-2021 Luiza Torres-05.png"
+        ],
+        "kiev": [
+            "02-08-2021 Anne Rodrigues-01.png",
+            "02-08-2021 Anne Rodrigues-02.png",
+            "02-08-2021 Anne Rodrigues-03v.png",
+            "02-08-2021 Anne Rodrigues-04.png",
+            "02-08-2021 Anne Rodrigues-05.png"
+        ],
+        "Medelín": [
+            "Mármore 02-01.png",
+            "Mármore 02-02.png",
+            "Mármore 02-03.png",
+            "Mármore 02-04.png",
+            "Mármore 02-05.png"
+        ],
+        "Obninsk": [
+            "21-09-2021 Jasmine Carvalho (Thayna Lopes)-01.png",
+            "21-09-2021 Jasmine Carvalho (Thayna Lopes)-02.png",
+            "21-09-2021 Jasmine Carvalho (Thayna Lopes)-03.png",
+            "21-09-2021 Jasmine Carvalho (Thayna Lopes)-04.png",
+            "21-09-2021 Jasmine Carvalho (Thayna Lopes)-05.png"
+        ],
+        "San Andrés": [
+            "Mármore 06-01.png",
+            "Mármore 06-02.png",
+            "Mármore 06-03.png",
+            "Mármore 06-04.png",
+            "Mármore 06-05.png"
+        ],
+        "Siracusa": [
+            "22-09-2021 Jéssica Lorrany-01.png",
+            "22-09-2021 Jéssica Lorrany-02.png",
+            "22-09-2021 Jéssica Lorrany-03.png",
+            "22-09-2021 Jéssica Lorrany-04.png",
+            "22-09-2021 Jéssica Lorrany-05.png"
+        ],
+        "Taluá": [
+            "Mármore 10-01.png",
+            "Mármore 10-02.png",
+            "Mármore 10-03.png",
+            "Mármore 10-04.png",
+            "Mármore 10-05.png"
+        ],
+        "Trento": [
+            "17-09-2021 Elizete de Fátima-01.png",
+            "17-09-2021 Elizete de Fátima-02.png",
+            "17-09-2021 Elizete de Fátima-03.png",
+            "17-09-2021 Elizete de Fátima-04.png",
+            "17-09-2021 Elizete de Fátima-05.png"
+        ],
+        "Valparaíso": [
+            "01-02-2021 Anna Julya-01.png",
+            "01-02-2021 Anna Julya-02.png",
+            "01-02-2021 Anna Julya-03.png",
+            "01-02-2021 Anna Julya-04.png",
+            "01-02-2021 Anna Julya-05.png"
+        ],
+        "Vicenza": [
+            "Vanessa Aparecida Maciel - 4198414565-01.png",
+            "Vanessa Aparecida Maciel - 4198414565-02.png",
+            "Vanessa Aparecida Maciel - 4198414565-03.png",
+            "Vanessa Aparecida Maciel - 4198414565-04.png",
+            "Vanessa Aparecida Maciel - 4198414565-05.png"
+        ]
+    },
+    "Poá": {
+        "Berlim": [
+            "Minimalista - 1.1-01.png",
+            "Minimalista - 1.1-02.png",
+            "Minimalista - 1.1-03.png",
+            "Minimalista - 1.1-04.png",
+            "Minimalista - 1.1-05.png"
+        ],
+        "Bilbao": [
+            "Minimalista - 10-01.png",
+            "Minimalista - 10-02.png",
+            "Minimalista - 10-03.png",
+            "Minimalista - 10-04.png",
+            "Minimalista - 10-05.png"
+        ],
+        "Bremen": [
+            "Minimalista - 8-01.png",
+            "Minimalista - 8-02.png",
+            "Minimalista - 8-03.png",
+            "Minimalista - 8-04.png",
+            "Minimalista - 8-05.png"
+        ],
+        "Girona": [
+            "Minimalista - 16-01.png",
+            "Minimalista - 16-02.png",
+            "Minimalista - 16-03.png",
+            "Minimalista - 16-04.png",
+            "Minimalista - 16-05.png"
+        ],
+        "Hanôver": [
+            "Minimalista - 9-01.png",
+            "Minimalista - 9-02.png",
+            "Minimalista - 9-03.png",
+            "Minimalista - 9-04.png",
+            "Minimalista - 9-05.png"
+        ],
+        "Huelva": [
+            "Minimalista - 13-01.png",
+            "Minimalista - 13-02.png",
+            "Minimalista - 13-03.png",
+            "Minimalista - 13-04.png",
+            "Minimalista - 13-05.png"
+        ],
+        "Leipzig": [
+            "Minimalista - 7-01.png",
+            "Minimalista - 7-02.png",
+            "Minimalista - 7-03.png",
+            "Minimalista - 7-04.png",
+            "Minimalista - 7-05.png"
+        ],
+        "Leverkusen": [
+            "Minimalista - 5-01.png",
+            "Minimalista - 5-02.png",
+            "Minimalista - 5-03.png",
+            "Minimalista - 5-04.png",
+            "Minimalista - 5-05.png"
+        ],
+        "Ravenna": [
+            "20-09-2021 Camila Warmeling-01.png",
+            "20-09-2021 Camila Warmeling-02.png",
+            "20-09-2021 Camila Warmeling-03.png",
+            "20-09-2021 Camila Warmeling-04.png",
+            "20-09-2021 Camila Warmeling-05.png"
+        ],
+        "Vigo": [
+            "Minimalista - 17-01.png",
+            "Minimalista - 17-02.png",
+            "Minimalista - 17-03.png",
+            "Minimalista - 17-04.png",
+            "Minimalista - 17-05.png"
+        ],
+        "Ávila": [
+            "Minimalista - 15-01.png",
+            "Minimalista - 15-02.png",
+            "Minimalista - 15-03.png",
+            "Minimalista - 15-04.png",
+            "Minimalista - 15-05.png"
+        ]
+    },
+    "Profissões": {
+        "BARBEARIA": [
+            "bARBEARIA AGENDA PERMANENTE.png",
+            "BARBEARIA AGENDAMENTO 2022.png",
+            "BARBEARIA CAPA.png",
+            "MOCKUP SITEPrancheta 4 cópia 2@3x.png",
+            "MOCKUP SITEPrancheta 4 cópia 3@3x.png",
+            "MOCKUP SITEPrancheta 4 cópia@3x.png",
+            "MOCKUP SITEPrancheta 4@3x.png"
+        ],
+        "CONSULTAS MÉDICAS": [
+            "CONSULTAS MEDICAS AGENDAMENTO 2022.png",
+            "CONSULTAS MEDICAS AGENDAMENTO PERMANENTE.png",
+            "CONSULTAS MEDICAS CAPA.png"
+        ],
+        "DENTISTA": [
+            "DENTISTA AGENDAMENTO 2022.png",
+            "DENTISTA AGENDAMENTO PERMANENTE.png",
+            "DENTISTA CAPA.png",
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png"
+        ],
+        "ESTÉTICA": [
+            "ESTETICA AGENDAMENTO 2022.png",
+            "ESTETICA AGENDAMENTO PERMANENTE.png",
+            "ESTETICA CAPA.png",
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png"
+        ],
+        "LASH": [
+            "LASH AGENDAMENTO 2022.png",
+            "LASH AGENDAMENTO PERMANENTE.png",
+            "LASH CAPA.png",
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png"
+        ],
+        "MAKE": [
+            "MAKE AGENDAMENTO 2022.png",
+            "MAKE AGENDAMENTO PERMANENTE.png",
+            "MAKE CAPA.png",
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png"
+        ],
+        "MANICURE": [
+            "MANICURE AGENDAMENTO 2022.png",
+            "MANICURE AGENDAMENTO PERMANENTE.png",
+            "MANICURE CAPA.png",
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png"
+        ],
+        "MEGA HAIR": [
+            "MEGA HAIR  AGENDAMENTO PERMANENTE.png",
+            "MEGA HAIR  CAPA.png",
+            "MEGA HAIR AGENDAMENTO DATADO.png",
+            "MOCKUP CAPAPrancheta 14 cópia@3x.png",
+            "MOCKUP CAPAPrancheta 14@3x.png",
+            "MOCKUP CAPAPrancheta 4@3x.png",
+            "MOCKUP FOLHAPrancheta 4 cópia 2@3x.png",
+            "MOCKUP FOLHAPrancheta 4 cópia 3@3x.png",
+            "MOCKUP FOLHAPrancheta 4 cópia@3x.png",
+            "MOCKUP FOLHAPrancheta 4@3x.png"
+        ],
+        "MICROPIGMENTADORA": [
+            "MICROPIGMENTADORA  AGENDAMENTO PERMANENTE.png",
+            "MICROPIGMENTADORA  CAPA.png",
+            "MICROPIGMENTADORA AGENDAMENTO 2022.png",
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png"
+        ],
+        "NAIL DESIGN": [
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png",
+            "NAIL DESIGNER AGENDAMENTO  2022.png",
+            "NAIL DESIGNER AGENDAMENTO PERMANENTE.png",
+            "NAIL DESIGNER CAPA.png"
+        ],
+        "NUTRI": [
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png",
+            "NUTRI  AGENDAMENTO PERMANENTE.png",
+            "NUTRI  CAPA.png",
+            "NUTRI AGENDAMENTO 2022.png"
+        ],
+        "PET SHOP": [
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png",
+            "PET SHOP  AGENDAMENTO PERMANENTE.png",
+            "PET SHOP  CAPA.png",
+            "PET SHOP AGENDAMENTO 2022.png"
+        ],
+        "PSICOLOGA": [
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png",
+            "PSICOLOGA  AGENDAMENTO PERMANENTE.png",
+            "PSICOLOGA  CAPA.png",
+            "PSICOLOGA AGENDAMENTO 2022.png"
+        ],
+        "SALÃO": [
+            "MOCKUP capaPrancheta 14 cópia@3x.png",
+            "MOCKUP capaPrancheta 14@3x.png",
+            "MOCKUP capaPrancheta 4@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png",
+            "SALÃO  AGENDAMENTO PERMANENTE.png",
+            "SALÃO  CAPA.png",
+            "SALÃO AGENDAMENTO 2022.png"
+        ],
+        "SERVIÇOS": [
+            "MOCKUP folhaPrancheta 4 cópia 2@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia 3@3x.png",
+            "MOCKUP folhaPrancheta 4 cópia@3x.png",
+            "MOCKUP folhaPrancheta 4@3x.png",
+            "SERVIÇOS POR TEMPO.png"
+        ],
+        "TERAPEUTA": [
+            "TERAPEUTA AGENDAMENTO 2022.png",
+            "TERAPEUTA AGENDAMENTO PERMANENTE.png",
+            "TERAPEUTA CAPA.png"
+        ]
+    },
+    "Sólido": {
+        "Abu Dhabi": [
+            "23-07-2021 Letícia Fernandes-01.png",
+            "23-07-2021 Letícia Fernandes-02.png",
+            "23-07-2021 Letícia Fernandes-03.png",
+            "23-07-2021 Letícia Fernandes-04.png",
+            "23-07-2021 Letícia Fernandes-05.png"
+        ],
+        "Antália": [
+            "08-06-2021 Taine Beatriz-01.png",
+            "08-06-2021 Taine Beatriz-02.png",
+            "08-06-2021 Taine Beatriz-03.png",
+            "08-06-2021 Taine Beatriz-04.png",
+            "08-06-2021 Taine Beatriz-05.png"
+        ],
+        "Assunção": [
+            "20-01-2021 Sue Ellen-01.png",
+            "20-01-2021 Sue Ellen-02.png",
+            "20-01-2021 Sue Ellen-03.png",
+            "20-01-2021 Sue Ellen-04.png",
+            "20-01-2021 Sue Ellen-05.png"
+        ],
+        "Cork": [
+            "13-02-2021 Gisele Cristina-01.png",
+            "13-02-2021 Gisele Cristina-02.png",
+            "13-02-2021 Gisele Cristina-03.png",
+            "13-02-2021 Gisele Cristina-04.png",
+            "13-02-2021 Gisele Cristina-05.png"
+        ],
+        "Cracóvia": [
+            "12-02-2021 Thaís Rocha 1.1-01.png",
+            "12-02-2021 Thaís Rocha 1.1-02.png",
+            "12-02-2021 Thaís Rocha 1.1-03.png",
+            "12-02-2021 Thaís Rocha 1.1-04.png",
+            "12-02-2021 Thaís Rocha 1.1-05.png"
+        ],
+        "Galway": [
+            "15-02-2021 Ingrid Geraldine-01.png",
+            "15-02-2021 Ingrid Geraldine-02.png",
+            "15-02-2021 Ingrid Geraldine-03.png",
+            "15-02-2021 Ingrid Geraldine-04.png",
+            "15-02-2021 Ingrid Geraldine-05.png"
+        ],
+        "Kayseri": [
+            "08-07-2021 Laís Salomão (Mahalla)-01.png",
+            "08-07-2021 Laís Salomão (Mahalla)-02.png",
+            "08-07-2021 Laís Salomão (Mahalla)-03.png",
+            "08-07-2021 Laís Salomão (Mahalla)-04.png",
+            "08-07-2021 Laís Salomão (Mahalla)-05.png"
+        ],
+        "La Serena": [
+            "02-02-2021 Laudiane Silva-01.png",
+            "02-02-2021 Laudiane Silva-02.png",
+            "02-02-2021 Laudiane Silva-03.png",
+            "02-02-2021 Laudiane Silva-04.png",
+            "02-02-2021 Laudiane Silva-05.png"
+        ],
+        "Limerick": [
+            "15-02-2021 Thayná Pereira-01.png",
+            "15-02-2021 Thayná Pereira-02.png",
+            "15-02-2021 Thayná Pereira-03.png",
+            "15-02-2021 Thayná Pereira-04.png",
+            "15-02-2021 Thayná Pereira-05.png"
+        ],
+        "Montevidéu": [
+            "04-02-2021 Tauane Coimbra-01.png",
+            "04-02-2021 Tauane Coimbra-02.png",
+            "04-02-2021 Tauane Coimbra-03.png",
+            "04-02-2021 Tauane Coimbra-04.png",
+            "04-02-2021 Tauane Coimbra-05.png"
+        ],
+        "Oslo": [
+            "18-01-2021 Jessica Nathalie Santos-01.png",
+            "18-01-2021 Jessica Nathalie Santos-02.png",
+            "18-01-2021 Jessica Nathalie Santos-03.png",
+            "18-01-2021 Jessica Nathalie Santos-04.png",
+            "18-01-2021 Jessica Nathalie Santos-05.png"
+        ],
+        "Potenza": [
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 02-01.png",
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 02-02.png",
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 02-03.png",
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 02-04.png",
+            "24-09-2021 Larissa Scarlaty (Izabela Almeida) 02-05.png"
+        ],
+        "Potosí": [
+            "18-02-2021 Cilene de Oliveira-01.png",
+            "18-02-2021 Cilene de Oliveira-02.png",
+            "18-02-2021 Cilene de Oliveira-03.png",
+            "18-02-2021 Cilene de Oliveira-04.png",
+            "18-02-2021 Cilene de Oliveira-05.png"
+        ],
+        "Santiago": [
+            "01-01-2021 Edvânia Pinheiro-01.png",
+            "01-01-2021 Edvânia Pinheiro-02.png",
+            "01-01-2021 Edvânia Pinheiro-03.png",
+            "01-01-2021 Edvânia Pinheiro-04.png",
+            "01-01-2021 Edvânia Pinheiro-05.png"
+        ],
+        "Sucre": [
+            "18-02-2021 Sabrina Mayrink-01.png",
+            "18-02-2021 Sabrina Mayrink-02.png",
+            "18-02-2021 Sabrina Mayrink-03.png",
+            "18-02-2021 Sabrina Mayrink-04.png",
+            "18-02-2021 Sabrina Mayrink-05.png"
+        ],
+        "Valdivia": [
+            "03-07-2021 Raíssa Soares-01.png",
+            "03-07-2021 Raíssa Soares-02.png",
+            "03-07-2021 Raíssa Soares-03.png",
+            "03-07-2021 Raíssa Soares-04.png",
+            "03-07-2021 Raíssa Soares-05.png"
+        ],
+        "Varsóvia": [
+            "12-02-2021 Thaís Rocha 1.0-01.png",
+            "12-02-2021 Thaís Rocha 1.0-02.png",
+            "12-02-2021 Thaís Rocha 1.0-03.png",
+            "12-02-2021 Thaís Rocha 1.0-04.png",
+            "12-02-2021 Thaís Rocha 1.0-05.png"
+        ]
+    }
+}
