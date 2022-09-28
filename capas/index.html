@@ -41,9 +41,9 @@ fetch("../modelos.json")
             var mod = Object.keys(catalogo[c]);
 
             document.body.innerHTML += `
-                <h2> toque em alguma imagem para abrir em outra aba </h2>
-                <br>
                 <h2> ${c} </h2>
+                <br>
+                <h2> toque em alguma imagem para abrir em outra aba </h2>
                 <br>
                 <div class="container">
                     ${mod.map(m => {
@@ -51,7 +51,7 @@ fetch("../modelos.json")
                             <img src="${"../models/" + c + "/" + m + "/" + img}" onclick="window.open('${"../models/" + c + "/" + m + "/" + img}')"
                         `);
                         
-                        return `<div class="modelContainer"> <h3>${m}</h3> ` + a.join(`<br>`);
+                        return `<div class="modelContainer"> <h3>${c + " / " + m}</h3> ` + a.join(`<br>`);
                     }).join(`<br><hr class="modelTitle"></div>`)}
                 </div>
                 <br>
