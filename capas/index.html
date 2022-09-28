@@ -4,19 +4,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Inovar Personalizações | Catalogo de capas</title>
     <link rel="stylesheet" href="../style.css">
+    <link rel="icon" type="image/x-icon" href="../icons/icone.ico">
     <style>
         .goBack {
             left: 0%;
             font-size: 70px;
             margin-bottom: 100px;
             text-decoration: none;
+            width: 100%;
+            background-color: white;
+            color: var(--mainColor);
         }
     </style>
 </head>
 <body>
-    <a class="goBack" href="../">voltar</a>
+    <a class="goBack" href="../"> voltar</a>
     <br>
     <br>
 </body>
@@ -37,13 +41,14 @@ fetch("../modelos.json")
             var mod = Object.keys(catalogo[c]);
 
             document.body.innerHTML += `
-                <hr class="titleHr"><br>
+                <h2> toque em alguma imagem para abrir em outra aba </h2>
+                <br>
                 <h2> ${c} </h2>
                 <br>
                 <div class="container">
                     ${mod.map(m => {
                         var a = catalogo[c][m].map(img => `
-                            <img src="${"../models/" + c + "/" + m + "/" + img}"
+                            <img src="${"../models/" + c + "/" + m + "/" + img}" onclick="window.open('${"../models/" + c + "/" + m + "/" + img}')"
                         `);
                         
                         return `<div class="modelContainer"> <h3>${m}</h3> ` + a.join(`<br>`);
