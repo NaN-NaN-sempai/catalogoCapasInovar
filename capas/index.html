@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        .goBack {
+            left: 0%;
+            font-size: 70px;
+            margin-bottom: 100px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <a class="goBack" href="../">voltar</a>
+    <br>
+    <br>
+</body>
+
+<script>
+fetch("../modelos.json")
+    .then(r => r.json())
+    .then(catalogo => {
+        var fromTitle = decodeURIComponent(document.location.href.split("#")[1]);
+        var obj = {};
+        obj[fromTitle] = catalogo[fromTitle];
+
+        console.log(obj, fromTitle);
+        var cat = Object.keys(obj);
+        
+
+        cat.forEach(c => {
+            var mod = Object.keys(catalogo[c]);
+
+            document.body.innerHTML += `
+                <hr class="titleHr"><br>
+                <h2> ${c} </h2>
+                <br>
+                <div class="container">
+                    ${mod.map(m => {
+                        var a = catalogo[c][m].map(img => `
+                            <img src="${"../models/" + c + "/" + m + "/" + img}"
+                        `);
+                        
+                        return `<div class="modelContainer"> <h3>${m}</h3> ` + a.join(`<br>`);
+                    }).join(`<br><hr class="modelTitle"></div>`)}
+                </div>
+                <br>
+            `;
+        });
+    })
+</script>
+
+</html>

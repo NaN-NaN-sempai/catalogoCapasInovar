@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <style>
+        .title {
+            width: 100%;
+            background-color: white;
+            padding: 20px;
+            color: var(--mainColor);
+        }
+
+        a {
+            left: 0;
+            font-size: 25px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="title">Selecione uma categoria: </h2>
+    </div>
+</body>
+
+<script>
+    
+    fetch("./modelos.json")
+    .then(r => r.json())
+    .then(catalogo => {
+        var cat = Object.keys(catalogo);
+
+        cat.forEach(c => {
+
+            document.body.innerHTML += `
+                <br>
+                <a href="./capas/#${c}"> ${c} </a>
+                <br>
+            `;
+        });
+
+        document.querySelectorAll("h2:not(.title)").forEach(e => {
+            console.log(e);
+        });
+    });
+
+</script>
+</html>

@@ -1,0 +1,65 @@
+
+:root {
+    --mainColor: rgb(29, 23, 189)
+}
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    border: none;
+}
+
+body {
+    background-color: rgb(65, 65, 65);
+}
+
+img {
+    width: 150px;
+}
+
+.titleHr {
+    border-bottom: 4px solid black;
+}
+.modelTitle {
+    display: none;
+}
+.modelContainer {
+    padding-top: 10px;
+    background-color: grey;
+    --containerBorder: 2px solid var(--mainColor);
+    border-top: var(--containerBorder);
+    border-bottom: var(--containerBorder);
+}
+.modelContainer:nth-child(odd) {
+    background-color: rgb(179, 179, 179);
+}
+    
+.modelContainer h3 {
+    color: white;
+    background-color: var(--mainColor);
+    width: fit-content;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    --paddingS: 10px;
+    padding-left: var(--paddingS);
+    padding-right: var(--paddingS);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+h2, a {
+    color: white;
+    background-color: var(--mainColor);
+    width: fit-content;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    --paddingS: 10px;
+    padding-left: var(--paddingS);
+    padding-right: var(--paddingS);
+    border-radius: 10px;
+}
