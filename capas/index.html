@@ -10,16 +10,64 @@
     <style>
         .goBack {
             left: 0%;
-            font-size: 70px;
+            font-size: 50px;
             margin-bottom: 100px;
             text-decoration: none;
             width: 100%;
             background-color: white;
+            border-radius: 50px;
+            padding: 0 20px 0 20px;
             color: var(--mainColor);
+        }
+
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            background: white;
+            margin-bottom: 20px;
+            width: 100%;
+            overflow-x: hidden;
+            border-bottom: 5px solid var(--mainColor);
+        }
+
+        object {
+            pointer-events: none;
+        }
+
+
+        header h1 {
+            text-align: center;
+            margin-right: 10px;
+            font-size: 25px;
+            width: 100%;
+        }
+
+        header .logo {
+            height: 100%;
+            margin: 10px;
+            height: 70px;
+        }
+        header .logoLink {
+            transform: none !important;
+            position: relative !important;
+            background: none;
+            left: 0;
         }
     </style>
 </head>
 <body>
+    <header>
+        <a class="logoLink"  href="../">
+            <object class="logo" data="../assets/logo.svg"></object>
+        </a>
+        <h1>Inovar Personalização</h1>
+    </header>
+    
     <a class="goBack" href="../"> voltar</a>
     <br>
     <br>

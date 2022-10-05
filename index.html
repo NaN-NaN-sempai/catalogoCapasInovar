@@ -11,6 +11,45 @@
         body {
             overflow-x: hidden;
         }
+
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            background: white;
+            margin-bottom: 20px;
+            width: 100%;
+            overflow-x: hidden;
+            border-bottom: 5px solid var(--mainColor);
+        }
+
+        object {
+            pointer-events: none;
+        }
+
+
+        header h1 {
+            text-align: center;
+            margin-right: 10px;
+            font-size: 25px;
+            width: 100%;
+        }
+
+        header .logo {
+            height: 100%;
+            margin: 10px;
+            height: 70px;
+        }
+        header .logoLink {
+            transform: none !important;
+            position: relative !important;
+            background: none;
+        }
+
         .title {
             width: 100%;
             background-color: white;
@@ -26,6 +65,13 @@
     </style>
 </head>
 <body>
+    <header>
+        <a class="logoLink"  href="">
+            <object class="logo" data="../assets/logo.svg"></object>
+        </a>
+        <h1>Inovar Personalização</h1>
+    </header>
+
     <div class="container">
         <h2 class="title">Selecione uma categoria: </h2>
     </div>
