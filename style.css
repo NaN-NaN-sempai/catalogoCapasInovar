@@ -1,6 +1,12 @@
 
 :root {
-    --mainColor: rgb(29, 23, 189)
+    --mainColor: rgb(158 56 84);
+    --lightColor: rgb(255, 255, 255);
+    --darkColor: black;
+    --cellColorA: grey;
+    --cellColorB: rgb(179, 179, 179);
+    --imagesBackground: #4c4c4c;
+    --bgColor: var(--imagesBackground);
 }
 * {
     margin: 0;
@@ -10,25 +16,30 @@
     text-transform: uppercase;
     text-align: center;
     border: none;
+    color: var(--darkColor);
 }
 
-body {
-    background-color: rgb(65, 65, 65);
+body, html {
+    background-color: var(--bgColor);
+    overflow-x: hidden;
 }
 
 img {
-    width: 150px;
+    height: 175px;
+    padding: 2px;
+    background: var(--imagesBackground);
+    border-radius: 10px;
 }
 
 .titleHr {
-    border-bottom: 4px solid black;
+    border-bottom: 4px solid var(--darkColor);
 }
 .modelTitle {
     display: none;
 }
 .modelContainer {
     padding-top: 10px;
-    background-color: grey;
+    background-color: var(--cellColorA);
     --containerBorder: 2px solid var(--mainColor);
     border-top: var(--containerBorder);
     border-bottom: var(--containerBorder);
@@ -37,11 +48,11 @@ img {
     border-top: 4px solid var(--mainColor);
 }
 .modelContainer:nth-child(odd) {
-    background-color: rgb(179, 179, 179);
+    background-color: var(--cellColorB);
 }
     
 .modelContainer h3 {
-    color: white;
+    color: var(--lightColor);
     background-color: var(--mainColor);
     width: fit-content;
     position: relative;
@@ -55,8 +66,8 @@ img {
 }
 
 h2, a {
-    color: white;
-    background-color: var(--mainColor);
+    color: var(--mainColor);
+    background-color: var(--lightColor);
     width: fit-content;
     position: relative;
     left: 50%;

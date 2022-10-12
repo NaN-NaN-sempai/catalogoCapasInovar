@@ -8,9 +8,6 @@
     <link rel="stylesheet" href="./style.css">
     <link rel="icon" type="image/x-icon" href="./icons/icone.ico">
     <style>
-        body {
-            overflow-x: hidden;
-        }
 
         header {
             position: sticky;
@@ -20,11 +17,11 @@
             flex-direction: row;
             align-items: center;
             justify-content: space-between;
-            background: white;
+            background: var(--lightColor);
             margin-bottom: 20px;
             width: 100%;
             overflow-x: hidden;
-            border-bottom: 5px solid var(--mainColor);
+            border-bottom: 10px solid var(--mainColor);
         }
 
         object {
@@ -51,10 +48,10 @@
         }
 
         .title {
-            width: 100%;
-            background-color: white;
+            color: var(--lightColor);
+            background-color: var(--mainColor);
             padding: 20px;
-            color: var(--mainColor);
+            border-radius: 30px;
         }
 
         a {
@@ -62,18 +59,25 @@
             font-size: 25px;
             text-decoration: none;
         }
+        
+        @media only screen and (max-width: 500px) {
+            .title {
+                border-radius: 0;
+                width: 100%;
+            }
+        }
     </style>
 </head>
 <body>
     <header>
         <a class="logoLink"  href="">
-            <object class="logo" data="../assets/logo.svg"></object>
+            <object class="logo" data="./assets/logo.svg"></object>
         </a>
         <h1>Inovar Personalização</h1>
     </header>
 
     <div class="container">
-        <h2 class="title">Selecione uma categoria: </h2>
+        <h2 class="title">Selecione uma categoria </h2>
     </div>
 </body>
 

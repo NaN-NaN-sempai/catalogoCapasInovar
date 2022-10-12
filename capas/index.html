@@ -14,10 +14,11 @@
             margin-bottom: 100px;
             text-decoration: none;
             width: 100%;
-            background-color: white;
+            color: var(--lightColor);
+            background-color: var(--mainColor);
+            border: 4px solid var(--lightColor);
             border-radius: 50px;
             padding: 0 20px 0 20px;
-            color: var(--mainColor);
         }
 
         header {
@@ -28,11 +29,11 @@
             flex-direction: row;
             align-items: center;
             justify-content: space-between;
-            background: white;
+            background: var(--lightColor);
             margin-bottom: 20px;
             width: 100%;
             overflow-x: hidden;
-            border-bottom: 5px solid var(--mainColor);
+            border-bottom: 10px solid var(--mainColor);
         }
 
         object {
@@ -78,20 +79,27 @@ fetch("../modelos.json")
     .then(r => r.json())
     .then(catalogo => {
         var fromTitle = decodeURIComponent(document.location.href.split("#")[1]);
+        console.log(fromTitle);
         var obj = {};
-        obj[fromTitle] = catalogo[fromTitle];
 
-        console.log(obj, fromTitle);
+        if(catalogo[fromTitle]){
+            obj[fromTitle] = catalogo[fromTitle];
+
+        } else {
+            obj = catalogo;
+        }
+
         var cat = Object.keys(obj);
+        
+        document.body.innerHTML += `${!cat.includes(fromTitle)? "<h2> Todas as Capas: </h2><br>": ""}
+        <br>
+        <h2> toque em alguma imagem para abrir em outra aba </h2><br>`;
         
 
         cat.forEach(c => {
             var mod = Object.keys(catalogo[c]);
-
             document.body.innerHTML += `
                 <h2> ${c} </h2>
-                <br>
-                <h2> toque em alguma imagem para abrir em outra aba </h2>
                 <br>
                 <div class="container">
                     ${mod.map(m => {
